@@ -14,7 +14,7 @@ const He110Arg = function (optionalArg) {
 //On undefined arg print dis "No parameter was passed"
 if (optionalArg === undefined) {
 optionalArg = "No parameter was passed";
-//NTS: a limit or boundary which defines the scope of a particular process or activity.
+//NTS: "parameter" is a limit or boundary which defines the scope of a particular process or activity.
 }
 //If arg is "test" print "could be a command in the future"
 if (optionalArg === "test") {
